@@ -9,11 +9,11 @@ export const footerConf = {
       links: [
         {
           label: 'About',
-          url: 'www.solana.com',
+          url: 'www.fyfylians.com',
         },
         {
           label: 'Terms of service',
-          url: 'www.solana.com',
+          url: 'www.fyfylians.com',
         },
       ],
     },
@@ -22,11 +22,11 @@ export const footerConf = {
       links: [
         {
           label: 'FAQ',
-          url: 'www.solana.com',
+          url: 'www.fyfylians.com',
         },
         {
           label: 'Support',
-          url: 'www.solana.com',
+          url: 'www.fyfylians.com',
         },
         {
           label: 'Privacy policy',
@@ -34,7 +34,7 @@ export const footerConf = {
         },
         {
           label: 'Your purchases',
-          url: 'www.solana.com',
+          url: 'www.fyfylians.com',
         },
       ],
     },
@@ -43,11 +43,11 @@ export const footerConf = {
       links: [
         {
           label: 'Instagram',
-          url: 'www.solana.com',
+          url: 'www.instagram.com/fyfylians',
         },
         {
           label: 'Twitter',
-          url: 'www.solana.com',
+          url: 'www.twitter.com/fyfylians',
         },
         {
           label: 'Discord',
